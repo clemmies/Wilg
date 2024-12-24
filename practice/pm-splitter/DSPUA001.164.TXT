@@ -1,0 +1,49 @@
+RCTUZYUW RUSAZZM0003 1632230 MTMS-UUUU--RUSAPUF.
+ZNR UUUUU                                                                       
+R 112230Z JUN 24                                                                
+FM DAASC DAYTON WRIGHT PATTERSON AFB OH                                         
+TO GSA FSS REGION 3 PHILADELPHIA PA//FZ//                                       
+BT                                                                              
+UNCLAS                                                                          
+SUBJ: MAPAD EXPEDITE CHANGE NUMBER FOUR-ONE-ZERO-NINE (4109)                    
+REF DOD 4000.25-8-M, MILITARY ASSISTANCE PROGRAM ADDRESS DIRECTORY              
+(MAPAD).                                                                        
+NAVSUP FOR CODE 052 AND 0742B. NAVICP CODE P75311                               
+ACSAF FOR PRI. GSA FOR FSR/FSM.                                                 
+1. REQUEST THE FOLLOWING SECT B FMS ADDRESSES                                   
+BE IMPLEMENTED IMMEDIATELY FOR USE IN PROCESSING                                
+FMS SHIPMENTS AND DOCUMENTATION.                                                
+ACT MAPAC  TAC TAC CLEAR TEXT ADDRESS                  SII WPOD APOD         FFL
+               SEQ                                                              
+CHG BROZ00  1   1  DDSP NEW CUMBERLAND                                        0 
+                   UNIT MAT FIELD WHSE 89,  BAY 1                               
+                   U AVENUE                                                     
+                   NEW CUMBERLAND, PA 17070-5001                                
+                   VICKIE WENTZ 717-550-3343                                    
+    SPONSOR SERVICE: B                                                          
+                                                                                
+CHG BROZ00  2   1  DDSP NEW CUMBERLAND                                        0 
+                   UNIT MAT FIELD WHSE 89,  BAY 1                               
+                   U AVENUE                                                     
+                   NEW CUMBERLAND, PA 17070-5001                                
+                   VICKIE WENTZ 717-550-3343                                    
+    SPONSOR SERVICE: B                                                          
+                                                                                
+CHG DDVC00  M   1  US EMBASSY C CO SCO                      JN4               0 
+                   LITHUANIAN AIR FORCE BASE                                    
+                   LAKUNU ST. 3                                                 
+                   SIAULIAI                                                     
+                   LT-77103  LITHUANIA                                          
+    SPONSOR SERVICE: D                                                          
+                                                                                
+ADD KDTL00  M   1  ARMADA PARAGUAYA (ARPAR)                                   0 
+                   PHONE: +595-981-770831                                       
+                   AV. CARLO ANTNIO LOPEZ CASI ARSENAL                          
+                   PUERTO DE SAJONIA                                            
+                   ASUNCION, PARAGUAY                                           
+    SPONSOR SERVICE: B                                                          
+                                                                                
+2. CHANGES WILL APPEAR ON DAASC'S WEB SITE, EFFECTIVE IMMEDIATELY               
+AT: HTTPS://WWW.DAAS.DLA.MIL.                                                   
+BT                                                                              
+RCTUZYUW RUSAZZM0003 1632230 0049-UUUU                                      NNNN
